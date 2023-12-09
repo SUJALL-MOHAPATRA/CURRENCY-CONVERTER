@@ -36,7 +36,7 @@ def bitconv():
     c=int(input("enter choice:"))
     if c==1:
         amt=float(input("Enter the amount of bitcoin:"))
-        print("Bitcoin amount:",btc.convert_btc_to_cur(amt,ct),'\n')
+        print("Currency amount:",btc.convert_btc_to_cur(amt,ct),'\n')
     elif c==2:
         amt=float(input("Enter the amount of currency:"))
         print("Bitcoin amount:",btc.convert_to_btc(amt,ct),'\n')
