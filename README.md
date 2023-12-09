@@ -8,8 +8,13 @@ Also for this program I made a small custom module, which is also uploaded (file
 
 Things used:
 -Library
+
 -Self made module
+
 -Functions
+
 -Exception
+
 -Conditional statements
+
 -Loops
