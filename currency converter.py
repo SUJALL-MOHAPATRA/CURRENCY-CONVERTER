@@ -1,6 +1,6 @@
 from forex_python.converter import CurrencyRates
 from forex_python.bitcoin import BtcConverter
-import currency_codes as cc #self made module
+import currency_codes as cc #self made module(uploaded/attached)
 
 #Currency Conversion
 def curconv():
